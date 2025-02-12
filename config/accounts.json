@@ -1,0 +1,14 @@
+{
+  "default_account": "339514731825",
+  "default_region": "us-east-1",
+  "environments": {
+    "dev": {
+      "account": "123456789012",
+      "region": "us-east-1"
+    },
+    "prod": {
+      "account": "210987654321",
+      "region": "ap-northeast-1"
+    }
+  }
+} 
