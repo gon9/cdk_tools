@@ -1,4 +1,4 @@
-es# ML Development Environment using AWS CDK (Python)
+# ML Development Environment using AWS CDK (Python)
 
 このプロジェクトは、AWS CDK (Python) を使用して、GPU を利用した機械学習開発環境を構築するサンプルスタックです。
 
